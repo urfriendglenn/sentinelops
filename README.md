@@ -1,8 +1,7 @@
 # SentinelOps
 
----
-
 ## Overview
+
 SentinelOps is a learning-focused security tool that runs basic scans against targetted websites, then provides a clean and structured report.
 
 ---
@@ -22,6 +21,7 @@ SentinelOps is designed to help practice:
 ---
 
 ## Phases
+
 ### Curent Phase: Phase 1
 
 - Inital repository created
