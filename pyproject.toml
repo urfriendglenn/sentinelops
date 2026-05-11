@@ -1,0 +1,19 @@
+[project]
+name = "sentinelops"
+version = "0.1.0"
+description = "A Web Scanning CLI Leaning Tool"
+readme = "README.md"
+requires-python = ">=3.11"
+
+dependencies = [
+  "click",
+  "rich",
+  "requests",
+]
+
+[project.optional-dependencies]
+dev = [
+  "pytest",
+  "ruff",
+  "mypy",
+]
