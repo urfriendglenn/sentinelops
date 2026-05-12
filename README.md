@@ -22,3 +22,4 @@ SentinelOps is designed to help practice:
 
 - Inital repository created
 - CLI Tool initiated
+- Added simple site scan (curl)
