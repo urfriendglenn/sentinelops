@@ -4,8 +4,6 @@
 
 SentinelOps is a learning-focused security tool that runs basic scans against targetted websites, then provides a clean and structured report.
 
----
-
 ## Goals
 
 SentinelOps is designed to help practice:
@@ -17,8 +15,6 @@ SentinelOps is designed to help practice:
 - Formatting output for humans and machines
 - Writing tests with `pytest`
 - Practicing clean Git and project hygiene
-
----
 
 ## Phases
 
